@@ -16,7 +16,7 @@ gem "american_date",  '~> 1.1.1'
 ##  NOTE: run the test before upgrading to the tagged version. It has had several deprecation warnings.
 # gem 'authlogic', '~> 3.4.6'#,          "~> 3.3.0"
 
-gem 'authlogic', git: 'git@github.com:ayb/authlogic.git', ref: 'e221212944b076fb742e42693837d9c9174ad091'
+gem 'authlogic', git: 'git@github.com:ayb/authlogic.git' #, ref: 'e221212944b076fb742e42693837d9c9174ad091'
 
 #gem 'scrypt', '~> 2.0.0'
 

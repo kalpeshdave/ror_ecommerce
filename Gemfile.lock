@@ -1,7 +1,6 @@
 GIT
   remote: git@github.com:ayb/authlogic.git
   revision: e221212944b076fb742e42693837d9c9174ad091
-  ref: e221212944b076fb742e42693837d9c9174ad091
   specs:
     authlogic (3.4.6)
       activerecord (>= 3.2)
@@ -509,4 +508,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.12.5
+   1.13.2
