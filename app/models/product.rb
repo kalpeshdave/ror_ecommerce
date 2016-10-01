@@ -161,8 +161,8 @@ class Product < ApplicationRecord
   # @param [none]
   # @return [ Product ]
   def self.featured
-    product = where({ products: { featured: true} } ).includes(:images).first
-    product ? product : includes(:images).where(['products.deleted_at IS NULL']).first
+    products = where({ products: { featured: true} } ).includes(:images)
+    products ? products: includes(:images).where(['products.deleted_at IS NULL'])
   end
 
   def self.active

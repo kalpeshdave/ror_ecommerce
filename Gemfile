@@ -77,6 +77,8 @@ group :development do
   gem "binding_of_caller", '~> 0.7.2'
   # gem "rails-erd"
 
+  gem 'pry-byebug'
+
   # YARD AND REDCLOTH are for generating yardocs
   gem 'yard'
   gem 'RedCloth'
