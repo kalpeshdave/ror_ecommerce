@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:kalpeshdave/authlogic.git
+  remote: git://github.com/kalpeshdave/authlogic.git
   revision: e221212944b076fb742e42693837d9c9174ad091
   specs:
     authlogic (3.4.6)
