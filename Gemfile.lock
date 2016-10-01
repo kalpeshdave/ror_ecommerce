@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:ayb/authlogic.git
+  remote: git@github.com:kalpeshdave/authlogic.git
   revision: e221212944b076fb742e42693837d9c9174ad091
   specs:
     authlogic (3.4.6)
@@ -60,7 +60,7 @@ GEM
     addressable (2.4.0)
     afm (0.2.2)
     american_date (1.1.1)
-    arel (7.0.0)
+    arel (7.1.2)
     asset_sync (1.1.0)
       activemodel
       fog (>= 1.8.0)
@@ -311,7 +311,7 @@ GEM
     mime-types-data (3.2016.0521)
     mimemagic (0.3.1)
     mini_portile2 (2.1.0)
-    minitest (5.9.0)
+    minitest (5.9.1)
     mocha (0.13.3)
       metaclass (~> 0.0.1)
     multi_json (1.12.1)
