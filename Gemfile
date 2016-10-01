@@ -20,7 +20,7 @@ gem 'authlogic', github: 'kalpeshdave/authlogic' #, ref: 'e221212944b076fb742e42
 
 #gem 'scrypt', '~> 2.0.0'
 
-gem "asset_sync",         '~> 1.1.0'
+# gem "asset_sync",         '~> 1.1.0'
 gem 'awesome_nested_set', '~> 3.1.1'
 
 gem 'aws-sdk',        '~> 2.3.21'
